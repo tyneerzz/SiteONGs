@@ -1,1 +1,1 @@
-
+O site que desenvolvemos é destinado para servir como auxilio para ONGs que necessitarem, foi desenvolvido através da ferramenta WordPress, que é baseado em linguagem PHP com banco de dados MySQL. As funcionalidades do site são de que o usuário se cadastre como voluntário em uma ONG, ou de que o usuário possa efetuar uma doação para uma ONG, também consta no site a funcionalidade das ONGs se registrarem no site para receberem doações e novos voluntários.
